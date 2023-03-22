@@ -1,0 +1,21 @@
+1.Jsx - javascript + html + css 
+    The html should have one root tag 
+2.Component - any html file is known as component  
+3.Attribute class Should be replaced by className 
+
+======================================================= 
+14-02-2023 
+1.confirm() - is a function give two option ok or cancel 
+2.alert() - give only one option - ok 
+3.react-bootstrap - modal 
+4.setVerify() 
+5. window.location.reload() - auto reload page 
+6. without reloading whole page only productCards page is reloaded when delete icon clicked 
+5. ***jsonWebTocken *** npm i jsonwebtoken 
+
+20-02-23 
+========================================================== 
+1.simple redux counter example 
+2. annotorias - using this in vennala js, javascript, react js projects (images) 
+3. Next.js is a React framework that gives you building blocks to create web applications. 
+ By framework, we mean Next.js handles the tooling and configuration
